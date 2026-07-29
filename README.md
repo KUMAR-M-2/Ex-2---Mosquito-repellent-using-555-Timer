@@ -1,6 +1,6 @@
 # Ex-2---Mosquito-repellent-using-555-Timer
 
-**Aim  **
+**Aim**
 
 To design, simulate, and analyze an electronic mosquito repellent circuit using the IC 555 Timer in astable mode with Proteus software, and to generate ultrasonic frequency signals capable of driving a piezo buzzer.
 
@@ -21,7 +21,9 @@ S.No	Components/Software	Specification
 
 **Circuit Diagram**
 
-(Insert Proteus circuit diagram here.)
+<img width="887" height="566" alt="Screenshot 2026-07-29 140656" src="https://github.com/user-attachments/assets/c062b835-60f7-471f-91ef-190f8f066835" />
+
+
 
 **Theory**
 
@@ -72,7 +74,8 @@ Adjust the potentiometer and note the corresponding change in output frequency.
 **Output**
 	
 	
-(Insert Proteus output diagram here.)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c12c3888-8b2a-46e7-bfb1-5cdac08ea806" />
+
 
 **Result**
 
