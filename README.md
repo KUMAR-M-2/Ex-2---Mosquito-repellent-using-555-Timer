@@ -21,7 +21,7 @@ S.No	Components/Software	Specification
 
 **Circuit Diagram**
 
-<img width="887" height="566" alt="Screenshot 2026-07-29 140656" src="https://github.com/user-attachments/assets/c062b835-60f7-471f-91ef-190f8f066835" />
+<img width="780" height="532" alt="image" src="https://github.com/user-attachments/assets/8fed197c-eee6-4e67-863d-cf1d8235c78b" />
 
 
 
@@ -74,7 +74,7 @@ Adjust the potentiometer and note the corresponding change in output frequency.
 **Output**
 	
 	
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c12c3888-8b2a-46e7-bfb1-5cdac08ea806" />
+<img width="1916" height="1073" alt="image" src="https://github.com/user-attachments/assets/6d5d323f-b111-46d9-935e-1052af45352e" />
 
 
 **Result**
